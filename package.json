@@ -1,0 +1,15 @@
+{
+  "name": "expressnode",
+  "version": "1.0.0",
+  "description": "Meadowlark setup",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas England",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.2",
+    "express-handlebars": "^1.1.0"
+  }
+}
